@@ -50,7 +50,7 @@ const Header = () => {
             initial={{ y:30, opacity:0}}
             whileInView={{ y:0, opacity:1 }}
             transition={{duration:0.6,delay:1}}
-            href='/Max_Resume.pdf'
+            href='/max_resume.pdf'
             download
             className='px-6 sm:px-7 py-3.5 rounded-2xl border border-white/20 bg-white/10 text-white font-bold flex items-center gap-2 backdrop-blur-md hover:-translate-y-1 hover:border-violet-300/60 transition duration-300'
           >
